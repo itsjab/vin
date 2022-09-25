@@ -5,6 +5,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Muscadet"
       },
       "geometry": {
@@ -1746,6 +1747,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Anjou"
       },
       "geometry": {
@@ -2474,6 +2476,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Savennières"
       },
       "geometry": {
@@ -2529,6 +2532,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Coteaux du Layon"
       },
       "geometry": {
@@ -2769,6 +2773,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Quarts de Chaume"
       },
       "geometry": {
@@ -2813,6 +2818,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Bonnezeaux"
       },
       "geometry": {
@@ -2859,6 +2865,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Saumur-Champigny"
       },
       "geometry": {
@@ -2940,6 +2947,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Saumur"
       },
       "geometry": {
@@ -3164,6 +3172,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Chinon"
       },
       "geometry": {
@@ -3308,6 +3317,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Touraine"
       },
       "geometry": {
@@ -4221,6 +4231,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Vouvray"
       },
       "geometry": {
@@ -4324,6 +4335,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Bourgueil"
       },
       "geometry": {
@@ -4412,6 +4424,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Saint-Nicolas-de-Bourgueil"
       },
       "geometry": {
@@ -4451,6 +4464,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Quincy"
       },
       "geometry": {
@@ -4516,6 +4530,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Reuilly"
       },
       "geometry": {
@@ -4620,6 +4635,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Menetou-Salon"
       },
       "geometry": {
@@ -4726,6 +4742,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Sancerre"
       },
       "geometry": {
@@ -4832,6 +4849,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Pouilly-Fumé"
       },
       "geometry": {
@@ -4929,6 +4947,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Châteaumeillant"
       },
       "geometry": {
@@ -5056,6 +5075,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "region-loire-valley",
         "name": "Coteaux du Giennois"
       },
       "geometry": {
