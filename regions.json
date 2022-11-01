@@ -9443,7 +9443,8 @@
       "properties": {
         "id": "aop-rangen",
         "name": "Alsace grand cru Rangen",
-        "region": "Alsace"
+        "region": "Alsace",
+        "regionId": "region-alsace"
       },
       "geometry": {
         "type": "Polygon",
@@ -9730,7 +9731,8 @@
       "properties": {
         "id": "aop-altenberg-de-bergbieten",
         "name": "Alsace grand cru Altenberg de Bergbieten",
-        "region": "Alsace"
+        "region": "Alsace",
+        "regionId": "region-alsace"
       },
       "geometry": {
         "type": "Polygon",
@@ -9921,7 +9923,8 @@
       "properties": {
         "id": "aop-sonnenglanz",
         "name": "Alsace grand cru Sonnenglanz",
-        "region": "Alsace"
+        "region": "Alsace",
+        "regionId": "region-alsace"
       },
       "geometry": {
         "type": "Polygon",
@@ -10081,7 +10084,8 @@
       "properties": {
         "id": "aop-hengst",
         "name": "Alsace grand cru Hengst",
-        "region": "Alsace"
+        "region": "Alsace",
+        "regionId": "region-alsace"
       },
       "geometry": {
         "type": "Polygon",
