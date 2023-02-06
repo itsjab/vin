@@ -11236,7 +11236,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Premières Côtes de Bordeaux & Côtes de Bordeaux Cadillac",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 1,
         "subregion": null,
         "id": "aoc-premieres-cotes-de-bordeaux"
@@ -11324,7 +11324,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Cadillac",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 2,
         "subregion": null,
         "id": "aoc-cadillac"
@@ -11446,7 +11446,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Sauternes",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 2,
         "subregion": "Graves",
         "id": "aoc-sauternes"
@@ -11502,7 +11502,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Saint-Emilion",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 1,
         "subregion": null,
         "id": "aoc-saint-emilion"
@@ -11561,7 +11561,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Côtes de Bordeaux Castillon",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 1,
         "subregion": null,
         "id": "aoc-cotes-de-bordeaux-castillon"
@@ -11623,7 +11623,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Fronsac",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 1,
         "subregion": null,
         "id": "aoc-fronsac"
@@ -11695,7 +11695,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Côtes de Bordeaux Blaye",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 1,
         "subregion": null,
         "id": "aoc-cotes-debordeaux-blaye"
@@ -11824,7 +11824,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Entre-deux-Mers",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 1,
         "subregion": null,
         "id": "aoc-entre-deux-mers"
@@ -12156,7 +12156,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Barsac",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 3,
         "subregion": "Graves",
         "id": "aoc-barsac"
@@ -12192,7 +12192,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Cérons",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 2,
         "subregion": null,
         "id": "aoc-cerons"
@@ -12234,7 +12234,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Côtes de Bordeaux-Saint-Macaire",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 1,
         "subregion": null,
         "id": "aoc-cotes-de-bordeaux-saint-macaire"
@@ -12302,7 +12302,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Lussac-Saint-Emilion",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 1,
         "subregion": null,
         "id": "aoc-lussac-saint-emilion"
@@ -12351,7 +12351,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Côtes de Bordeaux Sainte-Foy",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 1,
         "subregion": null,
         "id": "aoc-cotes-de-bordeaux-sainte-foy"
@@ -12471,7 +12471,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Loupiac",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 3,
         "subregion": null,
         "id": "aoc-loupiac"
@@ -12507,7 +12507,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Lalande-de-Pomerol",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 1,
         "subregion": null,
         "id": "aoc-lalande-de-pomerol"
@@ -12544,7 +12544,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Listrac-Médoc",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 4,
         "subregion": "Médoc",
         "id": "aoc-listrac-medoc"
@@ -12603,7 +12603,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Graves de Vayres",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 1,
         "subregion": null,
         "id": "aoc-graves-de-vayres"
@@ -12658,7 +12658,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Pomerol",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 2,
         "subregion": null,
         "id": "aoc-pomerol"
@@ -12710,7 +12710,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Côtes de Bordeaux Francs",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 1,
         "subregion": null,
         "id": "aoc-cotes-de-bordeaux-francs"
@@ -12749,7 +12749,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Puisseguin-Saint-Emilion",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 2,
         "subregion": null,
         "id": "aoc-puisseguin-saint-emilion"
@@ -12795,7 +12795,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Entre-deux-Mers Haut-Benauge",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 2,
         "subregion": null,
         "id": "aoc-entre-deux-mers-haut-benauge"
@@ -12886,7 +12886,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Sainte-Croix-du-Mont",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 3,
         "subregion": null,
         "id": "aoc-sainte-croix-du-mont"
@@ -12922,7 +12922,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Saint-Estèphe",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 5,
         "subregion": "Médoc",
         "id": "aoc-saint-estephe"
@@ -12959,7 +12959,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Pessac-Léognan",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 2,
         "subregion": "Graves",
         "id": "aoc-pessac-leognan"
@@ -13061,7 +13061,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Canon Fronsac",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 2,
         "subregion": null,
         "id": "aoc-canon-fronsac"
@@ -13107,7 +13107,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Côtes de Bourg, Bourg et Bourgeais",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 2,
         "subregion": null,
         "id": "aoc-cotes-de-bourd"
@@ -13184,7 +13184,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Saint-Georges-Saint-Emilion",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 1,
         "subregion": null,
         "id": "aoc-saint-georges-saint-emilion"
@@ -13241,7 +13241,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Margaux",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 3,
         "subregion": "Médoc",
         "id": "aoc-margaux"
@@ -13300,7 +13300,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Bordeaux",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 0,
         "subregion": null,
         "id": "aoc-bordeaux"
@@ -13928,7 +13928,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Pauillac",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 4,
         "subregion": "Médoc",
         "id": "aoc-pauillac"
@@ -13990,7 +13990,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Haut-Médoc",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 2,
         "subregion": "Médoc",
         "id": "aoc-haut-medoc"
@@ -14151,7 +14151,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Saint-Julien",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 3,
         "subregion": "Médoc",
         "id": "aoc-saint-julien"
@@ -14227,7 +14227,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Moulis",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 3,
         "subregion": "Médoc",
         "id": "aoc-moulis"
@@ -14294,7 +14294,7 @@
       "type": "Feature",
       "properties": {
         "aire_geo": "Graves",
-        "categorie": "region-bordelaise",
+        "regionId": "region-bordelaise",
         "layer": 1,
         "subregion": "Graves",
         "id": "aoc-graves"
