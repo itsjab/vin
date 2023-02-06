@@ -11698,7 +11698,7 @@
         "regionId": "region-bordelaise",
         "layer": 1,
         "subregion": null,
-        "id": "aoc-cotes-debordeaux-blaye"
+        "id": "aoc-cotes-de-bordeaux-blaye"
       },
       "geometry": {
         "type": "MultiPolygon",
