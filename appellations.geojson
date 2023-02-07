@@ -5,7 +5,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Coteaux du Loire",
+        "name": "Coteaux du Loire-t",
         "regionId": "region-loire",
         "id": "aoc-coteaux-du-loire"
       },
