@@ -1,0 +1,22 @@
+{
+  "name": "@grapevine/grapevine-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "difference.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsjab/vin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsjab/vin/issues"
+  },
+  "homepage": "https://github.com/itsjab/vin#readme",
+  "dependencies": {
+    "@turf/turf": "^6.5.0"
+  }
+}
